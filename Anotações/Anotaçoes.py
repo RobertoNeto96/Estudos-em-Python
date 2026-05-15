@@ -1,5 +1,11 @@
 # Anotaçoes do curso de PYTHON
 
+# Para arredondar valores para cima ou para baixo, importar o MATH
+# Para arredondar um valor para cima, utilizamos o math.ceil()
+# Para arredondar o valor para baixo, utilizamos o matj.floor()
+# Para cortar as casa decimais, utilizamos o int()
+
+
 # TIPOS PRIMITIVOS
 
 # str = string (Define como 'escrita' o valor)
