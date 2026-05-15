@@ -1,0 +1,1 @@
+# Nesse desafio a ideia era tocar uma musica no VSCode/Pycharm porem como estou sem meu computador nao posso baixar nenhum arquivo nessa maquina, entao o desafio sera pulado.

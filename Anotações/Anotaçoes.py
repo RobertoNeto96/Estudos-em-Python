@@ -4,7 +4,7 @@
 # Para arredondar um valor para cima, utilizamos o math.ceil()
 # Para arredondar o valor para baixo, utilizamos o matj.floor()
 # Para cortar as casa decimais, utilizamos o int()
-
+# Seu quiser colocar um emoji no codigo é só apertar a tecla WIN + .(ponto)
 
 # TIPOS PRIMITIVOS
 
