@@ -67,17 +67,17 @@
 
 4. frase[9:21:2] Nesse caso, repete-se a regra de cima, porem no terceiro parametro, ele pulara de 2 em 2 ou a quantidade que que quisermos, basta alterar o valor 2 pelo valor desejado
 
-5. frase[:5] Nesse quando nao informamos o primeiro valor, ele sempre iniara do inicio da frase
+5. frase[:5] Nesse quando nao informamos o primeiro valor, ele sempre iniciara do inicio da frase
 
 6. frase[15:] Nesse caso invertemos a regra, ele iniciará no carcter 15 e terminara no final da frase
 
 7. len(frase) ele mostra o tamanho da frase
 
-8. frase.count('o) ele conta quantas vezes aparece a letra 'o' dentro da frase
+8. frase.count('o') ele conta quantas vezes aparece a letra 'o' dentro da frase
 
 9. frase.find('deo') ele busca quantas vezes tem 'deo' dentro da frase, mostrando a posição que começa, caso nao existe a palavra/frase dentro da frase em questão, ele retorna o valor -1
 
-10. 'curso' in frase nesse caso, ele vai buscar se existe a frase dentro da frase em questão, retornando TRUE ou FALSE 
+10. 'curso' in frase nesse caso, ele vai buscar se existe a palavra dentro da frase em questão, retornando TRUE ou FALSE 
 
 11. frase.replace('Python','Android') Nesse caso voce pode alterar o que há dentro da frase, colocando nos parenteses primeiro a palavra que sera substituido, em seguida a palavra que será colocado no lugar
 
