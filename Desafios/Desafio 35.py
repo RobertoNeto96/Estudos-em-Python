@@ -1,0 +1,1 @@
+# Desafio puramente de matematica, sendo desnecessario sua conclusão

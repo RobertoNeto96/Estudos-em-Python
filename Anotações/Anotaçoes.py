@@ -93,13 +93,28 @@
 
 17. frase.rstrip() Remove somente os espaços do lado direito da frase
 
-18 frase.lstrip() Remove somente os espaços do lado esquerdo da frase
+18. frase.lstrip() Remove somente os espaços do lado esquerdo da frase
 
 19. frase.split() Ele divide toda a frase com base nos espaços que tiver entre as palavras dentro da frase
 
 20. '-'.join(frase) Ele une todas as palavras que foram divididos pelo FRASE.SPLIT()
 
+CORES NO TERMINAL
 
+1. TODO CODIGO ANSI PARA COR NO PYTHON SEGUE O PADRÃO \033[ESTILO DO TEXTO ; CORES DO TEXTO ; CORES DO FUNDO [m
+                                                             0,1,4,7              30 35           40 41
+  ESTILOS DE TEXTO:                                                               31 36           42 43
+  0 = Não altera em nada o texto                 \033[;;\033[m                    32 37           44 45
+  1 = Bold(negrito)                                                               33 38           46 47
+  4 = underline(subllinhado)                                                      34
+  7 = negative
+
+ CORES DE TEXTO                CORES DO FUNDO                    Para ter um padrão de cores do terminal
+97 BRANCO  31 VERMELHO        107 BRANCO  41 VERMELHO            usar a formula \033[m (fundo preto, letra cinza)
+32 VERDE   33 AMARELO         42 VERDE    43 AMARELO
+34 AZUL    35 MAGENTA         44 AZUL     45 MAGENTA             Para nao deixar o fundo da linha toda pintada
+36 CIANO   37 CINZA           46 CIANO    47 CINZA               encerra o comando no final do texto
+                                                                 ex: print('\033[4;30;45Olá mundo\033[m')
 
 
 
