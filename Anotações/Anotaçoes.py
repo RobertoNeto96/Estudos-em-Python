@@ -109,12 +109,11 @@ CORES NO TERMINAL
   4 = underline(subllinhado)                                                      34
   7 = negative
 
- CORES DE TEXTO                CORES DO FUNDO                    Para ter um padrão de cores do terminal
-97 BRANCO  31 VERMELHO        107 BRANCO  41 VERMELHO            usar a formula \033[m (fundo preto, letra cinza)
+ CORES DE TEXTO                CORES DO FUNDO                    
+97 BRANCO  31 VERMELHO        107 BRANCO  41 VERMELHO            
 32 VERDE   33 AMARELO         42 VERDE    43 AMARELO
-34 AZUL    35 MAGENTA         44 AZUL     45 MAGENTA             Para nao deixar o fundo da linha toda pintada
-36 CIANO   37 CINZA           46 CIANO    47 CINZA               encerra o comando no final do texto
-                                                                 ex: print('\033[4;30;45Olá mundo\033[m')
+34 AZUL    35 MAGENTA         44 AZUL     45 MAGENTA             
+36 CIANO   37 CINZA           46 CIANO    47 CINZA              
 
 
 
