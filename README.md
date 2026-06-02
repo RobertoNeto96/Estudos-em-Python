@@ -1,5 +1,4 @@
 # Mundo Python Gunabara
-Repositorio destinado a estudar os MUNDOS 1, 2 e 3 de PYTHON do Guanabara
+Repositorio focado para estudo na linguagem de programação PYTHON
 
-Destinado a praticar todos os desafios do curso em video do guanabara
-mais especificamente MUNDO PYTHON
+Estudos com cursos da Udemy e algumas video aulas do Youtube
