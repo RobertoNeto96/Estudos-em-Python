@@ -1,17 +1,110 @@
-cadastro_senha = str(input('Digite sua senha: '))
-tentativa = 3
+'''
+BOAS PRATICAS PARA OS CODIGOS
 
-print('_-_' * 10 , 'Vamos entrar no sistema' , '_-_' * 10)
+Para criar uma variavel constante, onde os valores nao serão ou nao podem ser alterados, cria-se a variavel toda em MAIUSCULA
 
-while True:
-    login = str(input('Digite sua senha: '))
 
-    if cadastro_senha == login:
-        print('Bem vindo ao nosso sistema')
-    else:
-        cadastro_senha != login
-        tentativa -= 1
-        print(f'Senha incorreta, voce tem mais {tentativa} tentativas') 
-    if tentativa <= 0:
-        print('Tentativas de login excedidas.')
-        break       
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+'''
