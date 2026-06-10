@@ -113,8 +113,7 @@ CORES NO TERMINAL
 97 BRANCO  31 VERMELHO        107 BRANCO  41 VERMELHO            
 32 VERDE   33 AMARELO         42 VERDE    43 AMARELO
 34 AZUL    35 MAGENTA         44 AZUL     45 MAGENTA             
-36 CIANO   37 CINZA           46 CIANO    47 CINZA              
-
+36 CIANO   37 CINZA           46 CIANO    47 CINZA             
 
 
 
