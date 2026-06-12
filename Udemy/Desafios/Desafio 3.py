@@ -2,9 +2,7 @@ while True:
     try:
         entrada = int(input('Digite um numero inteiro: '))
 
-        numero = int(entrada)
-
-        if numero % 2 == 0:
+        if entrada % 2 == 0:
             print('O numero digitado é PAR')
             cont = str(input('Quer verificar outro numero? [S/N]' )).upper()
             if cont == 'N':
